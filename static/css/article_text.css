@@ -1,0 +1,8 @@
+.article_text{
+    font-family: 'Overpass mono', sans-serif;
+}
+
+.article_text p{
+    font-size: 18px;
+    line-height: 1;
+}
