@@ -6,3 +6,8 @@
     font-size: 18px;
     line-height: 1;
 }
+
+.article_text div{
+    width: 710;
+    height: 456;
+}
