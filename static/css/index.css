@@ -1,5 +1,7 @@
-h1{
-    font-size: 50px;
-    font-family: Arial, sans-serif;
-    font-style: italic;
+
+body{
+    overflow-x: hidden;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
 }
