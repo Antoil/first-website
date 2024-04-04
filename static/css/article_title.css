@@ -1,11 +1,13 @@
 .article_title{
    font-family: 'Roboto', sans-serif;
-   width: 100%;
 }
 
 .article_title h2{
     font-size: 48px;
     font-weight: bold;
     line-height: 1;
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }
 

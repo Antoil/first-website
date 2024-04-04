@@ -1,7 +1,9 @@
+@import "commons.css";
+@import "article_title.css";
+@import "article_text.css";
+@import "article_image.css";
+@import "article_signature.css";
 
 body{
-    overflow-x: hidden;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
+    background-color: #FFFEF0;
 }

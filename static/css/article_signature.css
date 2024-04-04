@@ -1,0 +1,10 @@
+.article_signature{
+    font-family: 'Overpass mono', sans-serif;
+}
+
+.article_signature p{
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1;
+    width: 100%;
+}
